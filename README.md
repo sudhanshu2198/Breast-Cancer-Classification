@@ -1,6 +1,6 @@
 
 
-# Multi-Class Credit Score Classification
+# Breast-Cancer-Classification
 
 A mammogram is an X-ray of the breast. For many women, mammograms are the best way to find breast cancer early, when it is easier to treat and before it is big enough to feel or cause symptoms. Having regular mammograms can lower the risk of dying from breast cancer.This dataset was constructed by scanning the images, segmenting them into candidate objects, and using computer vision techniques to describe each candidate object.
 
